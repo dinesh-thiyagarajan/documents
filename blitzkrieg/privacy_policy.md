@@ -1,0 +1,162 @@
+# Privacy Policy - Blitzkrieg
+
+**Effective Date:** February 6, 2025
+
+---
+
+Welcome to Blitzkrieg ("we," "our," or "us"). We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application Blitzkrieg (the "App").
+
+> **Summary:** Blitzkrieg is designed with privacy in mind. We do not collect personal information. The App uses third-party advertising services that may collect anonymous data for ad personalization.
+
+---
+
+## 1. Information We Collect
+
+### 1.1 Information You Provide
+
+Blitzkrieg does not require you to create an account or provide any personal information to use the App. We do not collect:
+
+- Names or usernames
+- Email addresses
+- Phone numbers
+- Physical addresses
+- Payment information
+
+### 1.2 Automatically Collected Information
+
+The App stores game data locally on your device, including:
+
+- High scores
+- Total coins collected
+- Games played count
+- Best level reached
+- User preferences (sound settings, difficulty level)
+
+This data is stored only on your device and is not transmitted to our servers.
+
+### 1.3 Third-Party Advertising
+
+We use Google AdMob to display advertisements in the App. Google AdMob may collect certain information automatically, including:
+
+- Device identifiers (Advertising ID)
+- IP address
+- Device type and operating system
+- App usage data
+- General location (country/region level)
+
+This information is collected and used by Google in accordance with [Google's Privacy Policy](https://policies.google.com/privacy).
+
+---
+
+## 2. How We Use Information
+
+The locally stored game data is used solely to:
+
+- Save your game progress
+- Display your high scores and statistics
+- Remember your preferred settings
+- Provide a personalized gaming experience
+
+---
+
+## 3. Advertising
+
+Blitzkrieg displays advertisements to support the free availability of the App. We use Google AdMob as our advertising partner.
+
+### 3.1 Types of Ads
+
+- **Banner Ads:** Displayed on the main menu
+- **Interstitial Ads:** Displayed between game sessions
+
+### 3.2 Ad Personalization
+
+Google may use the collected data to show personalized ads based on your interests. You can opt out of personalized advertising by:
+
+- Adjusting your device's advertising settings
+- Visiting [Google's Ads Settings](https://www.google.com/settings/ads)
+- Using your device's "Opt out of Ads Personalization" feature
+
+---
+
+## 4. Data Storage and Security
+
+All game data is stored locally on your device using Android's SharedPreferences. This data:
+
+- Remains on your device only
+- Is not backed up to cloud services by default
+- Is deleted when you uninstall the App
+- Can be reset within the App's settings
+
+---
+
+## 5. Children's Privacy
+
+Blitzkrieg is suitable for users of all ages. We do not knowingly collect personal information from children under 13 years of age. The App:
+
+- Does not require account creation
+- Does not collect personal data
+- Does not include social features or chat
+- Does not allow in-app purchases
+
+Parents can manage ad personalization settings through their child's device settings.
+
+---
+
+## 6. Your Rights and Choices
+
+You have the following rights regarding your data:
+
+- **Access:** View your game statistics within the App
+- **Deletion:** Reset all progress using the "Reset Progress" option in Settings
+- **Opt-out:** Disable personalized ads through device settings
+- **Uninstall:** Remove the App and all associated data at any time
+
+---
+
+## 7. Third-Party Links and Services
+
+The App may contain advertisements that link to third-party websites or services. We are not responsible for the privacy practices of these external sites. We encourage you to review the privacy policies of any third-party services you access.
+
+---
+
+## 8. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by:
+
+- Updating the "Effective Date" at the top of this policy
+- Posting the updated policy in the App or on our website
+
+Your continued use of the App after any changes indicates your acceptance of the updated Privacy Policy.
+
+---
+
+## 9. Permissions
+
+Blitzkrieg requires minimal permissions to function:
+
+- **Internet Access:** Required for displaying advertisements
+- **Network State:** Used to check connectivity for ad loading
+
+We do not request access to your camera, microphone, contacts, location, or other sensitive permissions.
+
+---
+
+## 10. Contact Us
+
+If you have any questions about this Privacy Policy or our data practices, please contact us:
+
+- **Email:** dinesh.thiyagarajann@gmail.com
+- **App:** Blitzkrieg
+- **Developer:** Blitzkrieg Games
+
+---
+
+## 11. Consent
+
+By downloading, installing, or using Blitzkrieg, you consent to this Privacy Policy and agree to its terms.
+
+---
+
+© 2025 Blitzkrieg Games. All rights reserved.
+
+Version 1.2 | Last Updated: February 6, 2025
